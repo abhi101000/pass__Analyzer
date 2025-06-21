@@ -10,6 +10,9 @@ Linux.
 # Srtup
   git clone http://github.com
   pass__Analyzer
+  linex apt get install..
+  import string,import getpass
+  
 
 # Tools
    1.python,getpass.
