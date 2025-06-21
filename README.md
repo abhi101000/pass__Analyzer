@@ -11,7 +11,7 @@ Linux.
   git clone http://github.com
   pass__Analyzer
 
-#Tools
+# Tools
    1.python,getpass.
    2.count,check(password).
    3.loop(for,while),if,else,elif.
