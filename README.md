@@ -8,8 +8,7 @@ terminal visual and include animated
 Linux.
 
 # Srtup
-  git clone http://github.com
-  pass__Analyzer
+  git clone https://github.com/abhi101000/pass__Analyzer
   linex apt get install..
   import string,import getpass
   
