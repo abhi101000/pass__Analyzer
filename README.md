@@ -7,8 +7,9 @@ this tools are bulit to be easily run on
 terminal visual and include animated
 Linux.
 
-# Srtup
+# Setup
   git clone https://github.com/abhi101000/pass__Analyzer
+  cd pass__Analyzer
   linex apt get install..
   import string,import getpass
   
